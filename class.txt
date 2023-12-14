@@ -1,1 +1,8 @@
-These are colors for new design:
+Red
+Blue
+Yellow
+No color
+Nothing
+Black
+Mandarine
+Sea
