@@ -1,2 +1,3 @@
 # class-repo
-For coursera Lab
+Rami Farah
+Front-End Developer META
